@@ -1,6 +1,3 @@
 Open Command File.
-Returned friend list for Harlke
-Returned friend list for Harlke
-James is viewing the mine.
-J cannot view mine.
-J cannot view mine.
+Initialized output text files.
+Josh cannot view me.
