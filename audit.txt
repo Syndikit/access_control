@@ -6,7 +6,11 @@ Added Josh to friends.txt
 Josh is viewing the profile.
 Error: This command can only be executed by the profile owner root.
 Error: This command can only be executed by the profile owner root.
-nil is invalid. Nil reserved for no-group association with pictures.
+nil is invalid. nil reserved for no-group association with pictures.
 Error: This command can only be executed by the profile owner root.
 testpic has been posted.
-Error: testpic doesn't exist.
+Changed permissions for testpic to ['rw', 'rw', '-w'].
+Josh logged out.
+root is viewing the profile.
+Error: tespic doesn't exist.
+Error: tespic doesn't exist.
