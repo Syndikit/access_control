@@ -3,4 +3,10 @@ Audit Log
 Open Command File.
 Initialized output text files.
 Added Josh to friends.txt
-Josh is viewing me's profile.
+Josh is viewing the profile.
+Error: This command can only be executed by the profile owner root.
+Error: This command can only be executed by the profile owner root.
+nil is invalid. Nil reserved for no-group association with pictures.
+Error: This command can only be executed by the profile owner root.
+testpic has been posted.
+Error: testpic doesn't exist.
