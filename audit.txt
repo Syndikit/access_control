@@ -20,4 +20,5 @@ List test_list2 created.
 Josh added to test_list.
 Changed list of testpic to test_list.
 Cannot change list association of testpic to test_ist.
-Cannot change list association of testpic to test_ist.
+root logged out.
+Josh is viewing the profile.

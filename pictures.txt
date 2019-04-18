@@ -1,2 +1,7 @@
 Photos
 
+Pic Name: testpic
+Owner: Josh
+Permissions: ['rw', 'rw', '-w']
+Comments: []
+
