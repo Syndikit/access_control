@@ -1,8 +1,5 @@
 Final List Associations
 
-List Name: test_list
-List Members: ['Josh']
-
-List Name: test_list2
-List Members: []
+List Name: students
+List Members: ['alice', 'bob']
 

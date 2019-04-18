@@ -3,22 +3,36 @@ Audit Log
 Open Command File.
 Initialized output text files.
 Added root to friends.txt
-Added Josh to friends.txt
-Josh is viewing the profile.
-Error: This command can only be executed by the profile owner root.
-Error: This command can only be executed by the profile owner root.
-nil is invalid. nil reserved for no-group association with pictures.
-Error: This command can only be executed by the profile owner root.
-testpic has been posted.
-Changed permissions for testpic to ['rw', 'rw', '-w'].
-Josh logged out.
 root is viewing the profile.
-Error: tespic doesn't exist.
-Error: tespic doesn't exist.
-List test_list created.
-List test_list2 created.
-Josh added to test_list.
-Changed list of testpic to test_list.
-Cannot change list association of testpic to test_ist.
+Added alice to friends.txt
+Added bob to friends.txt
+List students created.
+alice added to students.
+bob added to students.
+Added tom to friends.txt
 root logged out.
-Josh is viewing the profile.
+alice is viewing the profile.
+file1.txt has been posted.
+Text from Alice in file1  added to file1.txt.
+file2.txt has been posted.
+Text from Alice in file2  added to file2.txt.
+Changed permissions for file2.txt to ['rw', 'rw', 'r-'].
+Changed list of file2.txt to students.
+alice logged out.
+tom is viewing the profile.
+Error: comments could not be read from file1.txt.
+['Text from Alice in file2 '] read from file2.txt.
+Comments could not be added to file2.txt.
+bob cannot view the profile.
+tom logged out.
+bob is viewing the profile.
+Comments could not be added to file2.txt.
+['Text from Alice in file2 '] read from file2.txt.
+bob logged out.
+root is viewing the profile.
+Changed ownership of file1.txt to tom.
+root logged out.
+tom is viewing the profile.
+Text from Tom in file1  added to file1.txt.
+['Text from Alice in file1 ', 'Text from Tom in file1 '] read from file1.txt.
+tom logged out.

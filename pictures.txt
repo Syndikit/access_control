@@ -1,7 +1,12 @@
 Photos
 
-Pic Name: testpic
-Owner: Josh
-Permissions: ['rw', 'rw', '-w']
-Comments: []
+Pic Name: file1.txt
+Owner: tom
+Permissions: ['rw', '--', '--']
+Comments: ['Text from Alice in file1 ', 'Text from Tom in file1 ']
+
+Pic Name: file2.txt
+Owner: alice
+Permissions: ['rw', 'rw', 'r-']
+Comments: ['Text from Alice in file2 ']
 
