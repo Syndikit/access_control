@@ -2,6 +2,7 @@ Audit Log
 
 Open Command File.
 Initialized output text files.
+Added root to friends.txt
 Added Josh to friends.txt
 Josh is viewing the profile.
 Error: This command can only be executed by the profile owner root.
@@ -14,3 +15,9 @@ Josh logged out.
 root is viewing the profile.
 Error: tespic doesn't exist.
 Error: tespic doesn't exist.
+List test_list created.
+List test_list2 created.
+Josh added to test_list.
+Changed list of testpic to test_list.
+Cannot change list association of testpic to test_ist.
+Cannot change list association of testpic to test_ist.
